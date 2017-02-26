@@ -3,7 +3,11 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
 }
-
+.container{
+max-width:80px;
+color:blue;
+font:sans-serif;
+}
 .center {
     text-align: center;
 }
